@@ -27,6 +27,7 @@ To get started with the project, follow these steps:
 
 ## Screenshots
 
+![2024-04-30-qlik](https://github.com/King-Engineer-Programmer/Chicago-Crime-Using-Qlik-Sense/assets/115958140/c9a38ee7-b969-488a-bd82-dcb110a47511)
 
 
 ## Contributing
